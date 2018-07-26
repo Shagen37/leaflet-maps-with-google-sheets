@@ -60,14 +60,14 @@ form {
 }
 
 .polygons-legend-scale i {
-  width: 18px;
+  width: 25px;
   height: 18px;
   float: left;
   margin-right: 8px;
 }
 
 .leaflet-popup-content {
-  min-width: 150px;
+  min-width: 40%;
 }
 
 .leaflet-popup-content img {
@@ -170,7 +170,7 @@ form {
   opacity: 0.9;
   border: 5px #ddd solid;
   border-radius: 5px;
-  font-family: "Helvetica Neue", Arial;
+  font-family: "Open Sans", "Droid Sans", "Helvetica Neue", Arial;
 }
 
 #mobile-intro-popup p {
@@ -238,7 +238,7 @@ div.dataTables_scrollHead {
 }
 
 .dataTable * {
-  font-family: "Helvetica Neue", Arial;
+  font-family: "Open Sans", "Droid Sans", "Helvetica Neue", Arial;
   border: 0 !important;
 }
 
